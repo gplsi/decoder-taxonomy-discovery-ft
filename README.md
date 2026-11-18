@@ -1,6 +1,4 @@
-# Decoder-taxonomy-discovery-ft
-
-**Fine-tuning decoder-only language models for taxonomy discovery on MatOnto and OBI, adapted from IRIS.**
+# Taxonomy Discovery Fine-tuning for decoder-only language models
 
 This repository contains the supervised fine-tuning, inference, and evaluation code used for **LLMs4OL 2025 Task C** in two domains: materials science (**MatOnto**) and biomedicine (**OBI**). Given a directed child–parent pair, a binary classifier predicts whether the child is a subclass of the parent.
 
